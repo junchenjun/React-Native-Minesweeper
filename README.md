@@ -14,7 +14,7 @@ Published on Expo. Click the link using Expo mobile app to load this project imm
 
 ### On your machine
 
-Clone this repo:  `git clone https://github.com/jaychenjun/BAO.git`
+Clone this repo:  `https://github.com/junchenjun/React-Native-Minesweeper.git`
 
 Run: `cd Minesweeper`
 
