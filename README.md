@@ -4,7 +4,7 @@
   A Minesweeper game built with React Native
 </p>
 
-## Running
+## Game on
 
 ### On your phone
 
