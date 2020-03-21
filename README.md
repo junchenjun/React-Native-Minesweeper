@@ -16,7 +16,7 @@ Published on Expo. Click the link using Expo mobile app to load this project imm
 
 Clone this repo:  `https://github.com/junchenjun/React-Native-Minesweeper.git`
 
-Run: `cd Minesweeper`
+Run: `cd React-Native-Minesweeper`
 
 Run: `yarn install`
 
