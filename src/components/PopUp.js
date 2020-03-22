@@ -46,7 +46,7 @@ const PopUp = props => {
 
     return (
         <Modal transparent={true} visible={modalVsible}>
-            <View style={{ ...styles.popUpContainer }}>
+            <View style={styles.popUpContainer}>
                 <Animated.View
                     style={{
                         ...styles.content,

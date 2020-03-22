@@ -26,6 +26,7 @@
     "ios": {
       "supportsTablet": true
     },
-    "description": ""
+    "description": "A Minesweeper game built with React Native",
+    "githubUrl": "https://github.com/junchenjun/React-Native-Minesweeper"
   }
 }
