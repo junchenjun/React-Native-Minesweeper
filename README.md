@@ -14,14 +14,14 @@ Published on Expo. Click the link using Expo mobile app to load this project imm
 
 ### On your machine
 
-Clone this repo:  `https://github.com/junchenjun/React-Native-Minesweeper.git`
+1. Clone this repo:  `https://github.com/junchenjun/React-Native-Minesweeper.git`
 
-Run: `cd React-Native-Minesweeper`
+2. Run: `cd React-Native-Minesweeper`
 
-Run: `yarn install`
+3. Run: `yarn install`
 
-Install expo-cli: `yarn global add expo-cli`
+4. Install expo-cli: `yarn global add expo-cli`
 
-Run: `expo start`
+5. Run: `expo start`
 
 Enjoy 🍻
