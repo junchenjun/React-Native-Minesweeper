@@ -20,7 +20,7 @@ Run: `cd React-Native-Minesweeper`
 
 Run: `yarn install`
 
-Install expo-cli: `yarn global add install expo-cli`
+Install expo-cli: `yarn global add expo-cli`
 
 Run: `expo start`
 
