@@ -47,7 +47,7 @@ const Cell = props => {
 
 export default Cell;
 
-const CellStyle = {
+const cellStyle = {
     width: windowWidth / 8 - 9,
     height: windowWidth / 8 - 9,
     borderStyle: 'solid',
@@ -58,15 +58,15 @@ const CellStyle = {
 
 const styles = StyleSheet.create({
     cellUnrevealed: {
-        ...CellStyle,
+        ...cellStyle,
         backgroundColor: 'white',
     },
     mineRevealed: {
-        ...CellStyle,
+        ...cellStyle,
         backgroundColor: 'orange',
     },
     cellRevealed: {
-        ...CellStyle,
+        ...cellStyle,
         backgroundColor: 'skyblue',
     },
     cellText: {
