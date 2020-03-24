@@ -51,7 +51,7 @@ const Board = () => {
 
     const handleCellClick = (x, y) => {
         if (state.boardData[x][y].isMine) {
-            return revealBoard('You lost.');
+            return revealBoard('You Lost.');
         }
 
         let newBoardData = state.boardData;
@@ -69,7 +69,7 @@ const Board = () => {
         }
 
         if (getHidden(newBoardData).length === config.mines) {
-            return revealBoard('You Win!');
+            return revealBoard('You Won!');
         }
 
         setState({ ...state, boardData: newBoardData });
@@ -91,7 +91,7 @@ const Board = () => {
             const mineArray = getMines(newBoardData);
             const FlagArray = getFlags(newBoardData);
             if (JSON.stringify(mineArray) === JSON.stringify(FlagArray)) {
-                return revealBoard('You Win!');
+                return revealBoard('You Won!');
             }
         }
 
