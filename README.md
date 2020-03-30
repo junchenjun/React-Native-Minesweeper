@@ -4,11 +4,11 @@
   A Minesweeper game built with React Native
 </p>
 
-## Game On!
+## Game On
 
 ### On your phone
 
-Published on Expo. Click the link using Expo mobile app to load this project immediately:<br/>
+Click the link below using Expo mobile app to load this project immediately:<br/>
 
 👉 [Minesweeper](https://expo.io/@junchenjun/Minesweeper) 👈
 
